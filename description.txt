@@ -1,7 +1,0 @@
-Creer un scrpit qui recupère les sorties de FIO et créer un graphe correspondant aux données récuperer.
-Y = bw
-X = % 0 à 100% pas 12.5%
-randrw : pour l'aléatoire
-courbe =  seq et aléatoire
-moyenne ponderée
-
